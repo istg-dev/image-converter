@@ -16,7 +16,7 @@ def upload_form():
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Fresh's Black Fucking Website That Was Made Because He Was Bored And Wanted To Use ChatGPT</title>
+        <title>Fresh Convert</title>
         <style>
             body {
                 font-family: Arial, sans-serif;
@@ -92,7 +92,7 @@ def upload_form():
     </head>
     <body>
         <div class="container">
-            <h1>Porn Converter Plus (PP Enhancer) </h1>
+            <h1>FReSh Image Convert</h1>
             <form action="/convert" method="post" enctype="multipart/form-data">
                 <input type="file" name="image" required>
                 <label for="format">Converting to...</label>
